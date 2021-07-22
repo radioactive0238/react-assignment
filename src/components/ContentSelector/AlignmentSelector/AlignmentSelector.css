@@ -1,0 +1,15 @@
+.alignment-option-item {
+	height: 15px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.alignment-option-item input {
+	height: 18px;
+	width: 18px;
+	vertical-align: middle;
+}
+
+.alignment-option-item label { 
+	vertical-align: middle;
+}

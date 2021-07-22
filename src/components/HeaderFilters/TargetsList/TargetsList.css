@@ -1,0 +1,8 @@
+.filter-list-options div {
+	display: inline-block;
+}
+
+.filter-option-item {
+	margin-right: 8px;
+	font-size: 18px;
+}

@@ -1,0 +1,19 @@
+.margin-option-item {
+	display: inline-block;
+}
+
+.margin-option-item label{
+	font-weight: bold;
+}
+
+.margin-option-item input{
+	border: none;
+    width: 70px;
+    height: 30px;
+    border-bottom: 1px solid;
+    margin-right: 15px;
+}
+
+.margin-option-item input:focus{
+	 outline:none;
+}

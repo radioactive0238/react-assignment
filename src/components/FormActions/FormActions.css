@@ -1,0 +1,33 @@
+.form-actions-main {
+	margin-top: 20px;
+	text-align: right;
+}
+
+.action-clear {
+	display: inline-block;
+}
+
+.action-clear button {
+	padding: 14px;
+    border: 2px solid #159edc;
+    font-size: 20px;
+    color: #159edc;
+    width: 120px;
+    border-radius: 10px;
+    background: white;
+}
+
+.action-submit {
+	display: inline-block;
+}
+
+.action-submit button {
+	margin-left: 20px;
+	padding: 14px;
+    border: 2px solid #159edc;
+    font-size: 20px;
+    color: white;
+    width: 190px;
+    border-radius: 10px;
+    background: #159edc;
+}

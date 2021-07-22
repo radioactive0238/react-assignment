@@ -1,0 +1,19 @@
+.category-list-options ul{
+	list-style: none;
+	padding: 0px;
+}
+
+.category-list-options li{
+	display: inline-block;
+	border: 1px solid;
+	border-radius: 25px;
+	padding: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.category-active{
+	background: #26c3ff;
+    color: white;
+}
